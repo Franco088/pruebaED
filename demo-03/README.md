@@ -10,5 +10,8 @@ npm install
 
 debemos de omitir estes archivos y caretas
 
+node_modules
+.log
+
 
 
